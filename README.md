@@ -1,2 +1,1 @@
-# desafio_integrador
-desafio_integrador GitHub
+Migthy Ducks Hockey League
